@@ -27,3 +27,11 @@
  >События HTML — это специальные глобальные атрибуты, используемые в тегах для вызова обработчиков событий, написанных на различных языках сценариев таких, как JavaScript и вызываемых, когда на странице происходит какое-либо действие. События позволяют сделать вашу страницу динамической.
 
  ![](/images/Screenshot_9.png)
+
+ >#### creatElement() 
+
+  >The JavaScript document.createElement() method allows you to create and return a 
+    new element (an empty Element node) with the specified tag name.
+
+     1. createElement(elementName): Creates an html element whose tag is
+     passed as a parameter. Returns the created element
