@@ -35,3 +35,5 @@
 
      1. createElement(elementName): Creates an html element whose tag is
      passed as a parameter. Returns the created element
+
+  В HTML-документе метод document.createElement() создает HTML-элемент, указанный tagName, или HTMLUnknownElement, если tagName не распознан.
